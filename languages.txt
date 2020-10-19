@@ -1,5 +1,5 @@
-php
-javascript
-html
-python
-css
+php - strong
+javascript - strong
+html - strong
+python - weak
+css - strong
