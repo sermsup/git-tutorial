@@ -1,5 +1,9 @@
-php
-javascript
-html
-python
-css
+programming languages:
+    php
+    javascript
+    html
+    python
+    css
+
+foreign languages:
+    french
